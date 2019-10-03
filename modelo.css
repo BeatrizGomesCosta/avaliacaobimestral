@@ -1,5 +1,6 @@
 .yellow{
     background-color: rgb(231, 230, 230);
+   
 }
 
 .right {
@@ -137,6 +138,7 @@ body{
     padding: 40px;
     width: 40%;
     border-radius: 30px;
+    transition: 2s;
 }
 
 
@@ -196,3 +198,7 @@ body{
     padding: -200%;
 }
 
+.background{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0alhibo3921Dm4fh19wAmtHTKlUFLGkQfY_ivcdd-4Ba9dknB")
+
+}
